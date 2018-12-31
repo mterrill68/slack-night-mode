@@ -114,7 +114,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .channels_list_holder .group_close, .channels_list_holder .im_close, .channels_list_holder .mpim_close { color: #949494 !important; }
 
-.channels_list_holder .unread_highlights { background: #bf360c; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
+.channels_list_holder .unread_highlights { background: #0022ff; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
 
 .channels_list_holder .unread_msgs { background: #222; color: #e6e6e6; }
 
@@ -750,7 +750,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #rxn_toast_div { background: #000; border: 1px solid #545454; }
 
-.presence { color: #949494; }
+.presence { color: #28b002; }
 
 #edit_topic_inner:not(.unable_to_post)::before { background: #222; border-color: #363636; }
 
@@ -2327,15 +2327,15 @@ ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_c
 
 .c-member__name--small, .c-team__name--small, .c-usergroup__name--small { color: #e6e6e6; }
 
-.c-member--small .presence { color: #949494; }
+.c-member--small .presence { color: #28b002; }
 
 .c-member--small .team_image.icon_16 { border-color: #363636; }
 
 .c-member--small .team_image.default { background-color: #949494; color: #e6e6e6; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); }
 
-.c-member--dark .c-member__current-status { color: #949494; }
+.c-member--dark .c-member__current-status { color: #28b002; }
 
-.c-member--dark .c-member__current-status::before { color: #949494; }
+.c-member--dark .c-member__current-status::before { color: #28b002; }
 
 .c-member--dark .c-member__name, .c-member--dark .c-member__secondary-name { color: #949494; }
 
@@ -2343,7 +2343,7 @@ ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_c
 
 .c-member--medium { color: #949494; }
 
-.c-member--medium .presence { color: #949494; }
+.c-member--medium .presence { color: #28b002; }
 
 .c-member__secondary-name--medium { color: #e6e6e6; }
 
